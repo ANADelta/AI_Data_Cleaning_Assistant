@@ -1,0 +1,7 @@
+content 
+name: MyChatbot
+version: 1.0
+description: A chatbot configuration file
+settings:
+  language: en
+  logging: true
