@@ -1,0 +1,4 @@
+settings:
+  name: AI Data Cleaning Assistant
+  version: 1.0
+  logging: true
